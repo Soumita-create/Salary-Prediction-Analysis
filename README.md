@@ -2,6 +2,7 @@
 The goal is to predict the salaries of data professionals based on a rich dataset.
 # Technologies used:
 Pandas
+<br>
 Matplotlib
 Seaborn
 Numpy
