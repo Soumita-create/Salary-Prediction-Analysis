@@ -15,26 +15,4 @@ Joblib
 <br>
 Flask
 # Models Implemented:
-StandardScaler
-<br>
-OneHotEncoder
-<br>
-ColumnTransformer
-<br>
-Pipeline
-<br>
-SimpleImputer
-<br>
-RandomForestRegressor
-<br>
-Mean Squared Error
-<br>
-r2_score
-<br>
-Train Test Split
-<br>
-GridSearchCV
-<br>
-Mean Absolute Error
-<br>
 Linear Regression
